@@ -2,20 +2,20 @@
 
 - First of all you have to answer three questions accurately
 
-  1. How are you gonna get clients? (The process of aquiring customer)
+  - How are you gonna get clients? (The process of aquiring customer)
 
   - Blog
   - Dribbble
   - Linked In
   - There are numerous ways
 
-  2. What you gonna charge them? (The process of sale)
+- What you gonna charge them? (The process of sale)
 
   - Value pricing
   - Fixed pricing
   - Hours pricing
 
-  3. How will you deliver your website? (The process of delivering value)
+- How will you deliver your website? (The process of delivering value)
 
   - Strategy Session
   - Wireframing
