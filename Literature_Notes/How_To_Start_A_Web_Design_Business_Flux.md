@@ -2,7 +2,7 @@
 
 - First of all you have to answer three questions accurately
 
-  - How are you gonna get clients? (The process of aquiring customer)
+- How are you gonna get clients? (The process of aquiring customer)
 
   - Blog
   - Dribbble
