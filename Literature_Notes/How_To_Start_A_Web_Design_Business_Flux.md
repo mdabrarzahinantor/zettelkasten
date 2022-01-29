@@ -1,6 +1,6 @@
 # **How To Start a Web Design Business | Flux**
 
-- First of all you have to answer three questions accurately
+### First of all you have to answer three questions accurately
 
 - How are you gonna get clients? (The process of aquiring customer)
 
